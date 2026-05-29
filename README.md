@@ -91,6 +91,7 @@ Crea un nuevo fichero respuestas.md, contesta las siguientes preguntas y súbelo
 
 *Utilice un formato que permita distinguir entre sus preguntas y respuestas*
 
+## Respuestas en archivo respuestas.md
 
 ## Capturas y Evidencias
 
