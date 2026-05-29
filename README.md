@@ -97,4 +97,17 @@ Crea un nuevo fichero respuestas.md, contesta las siguientes preguntas y súbelo
 
 ![git init](https://github.com/user-attachments/assets/1b48a6d1-f84f-4bcf-9e85-9ab36799fa55)
 
+![git init](https://github.com/user-attachments/assets/ea8c3df9-acea-413d-a252-66302266bcf8)
+
+![git init](https://github.com/user-attachments/assets/9b414ed9-5df5-408a-87bc-032ac364cb0f)
+
+![git init](https://github.com/user-attachments/assets/195246e8-edb4-4191-b677-50b298cf59a0)
+
+![git init](https://github.com/user-attachments/assets/57127f26-6786-453c-970f-acf95a096d14)
+
+![git init](https://github.com/user-attachments/assets/4964ca88-b6ac-4ef6-b42f-5f0d2d2f1167)
+
+
+
+
 
