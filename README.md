@@ -95,5 +95,6 @@ Crea un nuevo fichero respuestas.md, contesta las siguientes preguntas y súbelo
 
 ## Capturas y Evidencias
 
-<img width="1050" height="904" alt="image" src="https://github.com/user-attachments/assets/1b48a6d1-f84f-4bcf-9e85-9ab36799fa55" />
+![git init](https://github.com/user-attachments/assets/1b48a6d1-f84f-4bcf-9e85-9ab36799fa55)
+
 
