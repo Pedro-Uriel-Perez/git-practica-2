@@ -107,6 +107,12 @@ Crea un nuevo fichero respuestas.md, contesta las siguientes preguntas y súbelo
 
 ![git init](https://github.com/user-attachments/assets/4964ca88-b6ac-4ef6-b42f-5f0d2d2f1167)
 
+![git init](https://github.com/user-attachments/assets/5f9f69fa-91f2-4f0d-9c3a-9ae2d65fb4d5)
+
+![git init](https://github.com/user-attachments/assets/eab700b6-3c58-48ed-a4da-d03a0e345e69)
+
+
+
 
 
 
